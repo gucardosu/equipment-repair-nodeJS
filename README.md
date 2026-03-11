@@ -1,8 +1,8 @@
-# 🛠️ Kelltech OS - API de Gerenciamento de Ordens de Serviço
+API de Gerenciamento de Ordens de Serviço
 
 Uma API RESTful desenvolvida em Node.js para gerenciar clientes, equipamentos e ordens de serviço (OS) de uma assistência técnica de informática. O sistema permite rastrear o status de manutenções, vincular computadores aos seus respectivos donos e registrar o histórico de problemas e valores.
 
-## 💻 Tecnologias Utilizadas
+##Tecnologias Utilizadas
 
 * **Node.js**: Ambiente de execução JavaScript.
 * **Express**: Framework web para construção das rotas e servidor.
@@ -11,7 +11,7 @@ Uma API RESTful desenvolvida em Node.js para gerenciar clientes, equipamentos e 
 * **Dotenv**: Gerenciamento de variáveis de ambiente.
 * **Arquitetura MVC**: Separação clara entre Rotas, Controladores (Controllers) e Regras de Negócio/Banco de Dados (Models).
 
-## 🗂️ Estrutura do Projeto
+##Estrutura do Projeto
 
 O projeto segue o padrão MVC (Model-View-Controller) adaptado para APIs REST (onde a "View" é a resposta em JSON):
 
